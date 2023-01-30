@@ -1,0 +1,29 @@
+header {
+    background-image: url("../img/pattern.png");
+    background-color: aqua;
+}
+
+.image1 {
+    width: 200px;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+}
+
+table {
+    background-color: darkcyan;
+}
+
+thead {
+    background-color:blue ;
+}
+
+span {
+    background-color: yellow;
+}
+
+h3 {
+    color: gray;
+}
