@@ -7,3 +7,18 @@ header {
     width: 200px;
 }
 
+table {
+    background-color: darkcyan;
+}
+
+thead {
+    background-color:blue ;
+}
+
+span {
+    background-color: yellow;
+}
+
+h3 {
+    color: gray;
+}
