@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+}
+
+/* header */
+
+#app-header {
+    background-color:cornflowerblue;
+    background-image: url("../img/pattern.png");
+    background-size: 20%;
+}
+
+/* utilities */
+
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+.pt-3 {
+    padding-top: 3rem;
+}
+
+/* main */
+
+h1 {
+    font-size: 3rem;
+}
+
+.metadata {
+    color: grey;
+}
+
+.author {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+.text-sm {
+    font-size: 0.75rem;
+}
+
+.my-1 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
